@@ -1,4 +1,4 @@
-package com.example.videocall
+package com.jaysardhara.freediocall
 
 import io.flutter.embedding.android.FlutterActivity
 

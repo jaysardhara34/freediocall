@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
         appBar: AppBar(
           backgroundColor: Colors.black87,
           elevation: 00,
-          title: Text('Video chat'),
+          title: Text('Freedio Call'),
           centerTitle: true,
         ),
         body: Center(
